@@ -20,7 +20,7 @@ A Body Mass Index calculator. Based on the user’s weight and height it will ca
 * Formatting Strings. 
 * Color literals.
 
-
+## App Walkthrough
 
 https://user-images.githubusercontent.com/38589337/176974020-32df644a-3364-4a8d-a718-47696dfd47e5.mp4
 
